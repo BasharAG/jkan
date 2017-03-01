@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 532e2fb37ed3760f1dcd
+gatekeeper_host: https://VulturisOpenGovData.herokuapp.com
 
 # Dataset schema
 schema: default
